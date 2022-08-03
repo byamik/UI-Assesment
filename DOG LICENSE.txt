@@ -1,0 +1,7 @@
+1. what are the fields that you want to see on the form.
+2. provide the list of reuired fields.
+3. what is the form title.
+4. what are the options to submit the form(like submit, cancel, clear form).
+5. what is the process after submit. Does the user need to see any confirmation message.
+6. Does any fields need any validation like phone and email.
+7. how to determine if the user is a citizen. Is there a login that we need to setup.
